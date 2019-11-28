@@ -1,0 +1,6 @@
+export { default as UserEndpoints } from './UserEndpoints'
+export { default as ProjectEndpoints } from './ProjectEndpoints'
+export { default as GitlabEndpoints } from './GitlabEndpoints'
+export { default as ConfigurationsEndpoints } from './ConfigurationsEndpoints'
+export { default as EventEndpoints } from './EventEndpoints'
+export { default as CalendarEndpoints } from './CalendarEndpoints'
